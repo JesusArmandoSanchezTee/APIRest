@@ -11,13 +11,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infraestructure", "Infraest
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{1DE160A1-421B-44C3-840C-8EA358F4B781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{94FC9F4A-9AC0-43CE-B61A-E5E936683B64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{94FC9F4A-9AC0-43CE-B61A-E5E936683B64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{FF01239D-F6AA-445E-95D5-6783E0BD1ED9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{FF01239D-F6AA-445E-95D5-6783E0BD1ED9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{F4411F21-B033-4C14-814E-13435DF04435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{F4411F21-B033-4C14-814E-13435DF04435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{97597449-6EDD-4ADE-BEB1-666C712C0CEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{97597449-6EDD-4ADE-BEB1-666C712C0CEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Primitives", "Primitives", "{567F3AFB-654C-4659-B6D4-223F7ADE9C7C}"
+	ProjectSection(SolutionItems) = preProject
+		DomainEvent.cs = DomainEvent.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +58,7 @@ Global
 		{FF01239D-F6AA-445E-95D5-6783E0BD1ED9} = {1DE160A1-421B-44C3-840C-8EA358F4B781}
 		{F4411F21-B033-4C14-814E-13435DF04435} = {DFE28C85-2726-490A-BA61-39B08D1A60F7}
 		{97597449-6EDD-4ADE-BEB1-666C712C0CEC} = {8CD47B81-2018-4A70-8B8A-80392690E9D8}
+		{567F3AFB-654C-4659-B6D4-223F7ADE9C7C} = {1DE160A1-421B-44C3-840C-8EA358F4B781}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {898CBE30-6778-4561-9605-D3FFED946655}

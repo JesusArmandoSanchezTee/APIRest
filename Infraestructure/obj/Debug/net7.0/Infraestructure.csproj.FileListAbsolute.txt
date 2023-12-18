@@ -1,0 +1,12 @@
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\bin\Debug\net7.0\Infraestructure.deps.json
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\bin\Debug\net7.0\Infraestructure.dll
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\bin\Debug\net7.0\Infraestructure.pdb
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.AssemblyInfo.cs
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.dll
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\refint\Infraestructure.dll
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\Infraestructure.pdb
+C:\Users\jesus\source\repos\ApiRESTful\Infraestructure\obj\Debug\net7.0\ref\Infraestructure.dll
